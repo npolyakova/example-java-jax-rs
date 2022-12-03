@@ -1,0 +1,4 @@
+GET http://localhost:8080/spacecrafts/2
+Accept: application/json
+
+###
